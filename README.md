@@ -4,9 +4,7 @@
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabXD&theme=tokyonight&layout=compact&langs_count=5">
-  
-<a href="https://app.daily.dev/ArnabXD"><img src="https://api.daily.dev/devcards/f93eb55a5f154c299988fbf7e74d6806.png?r=3du" width="400" alt="Arnab Paryali's Dev Card"/></a>
-</div>
+
 
 ---
 
