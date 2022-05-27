@@ -1,6 +1,6 @@
 # 💫About Me :
 * I am currently working on TGVCBot & xor.
-* I make mobile apps with react-native web with next-js.
+* I mostly make mobile apps with `react-native` website with `next-js`.
 * I am a typescript guy but also writes some python.
 
 ## 🌐Socials
