@@ -16,11 +16,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
-2. 🗣 Commented on [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
-3. 🎉 Merged PR [#20](https://github.com/ArnabXD/bins-su-api/pull/20) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. 🎉 Merged PR [#101](https://github.com/ArnabXD/TGVCBot/pull/101) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. ❌ Closed PR [#12](https://github.com/ArnabXD/Bin-Lookup/pull/12) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+1. 🎉 Merged PR [#197](https://github.com/xorgram/xor/pull/197) in [xorgram/xor](https://github.com/xorgram/xor)
+2. ❗️ Closed issue [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+3. 🗣 Commented on [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+4. 🎉 Merged PR [#20](https://github.com/ArnabXD/bins-su-api/pull/20) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+5. 🎉 Merged PR [#101](https://github.com/ArnabXD/TGVCBot/pull/101) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
