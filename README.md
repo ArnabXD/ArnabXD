@@ -16,11 +16,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/xorgram/xor/pull/197) in [xorgram/xor](https://github.com/xorgram/xor)
-2. ❗️ Closed issue [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
-3. 🗣 Commented on [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
-4. 🎉 Merged PR [#20](https://github.com/ArnabXD/bins-su-api/pull/20) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-5. 🎉 Merged PR [#101](https://github.com/ArnabXD/TGVCBot/pull/101) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. ❗️ Opened issue [#95](https://github.com/deta/deta-cli/issues/95) in [deta/deta-cli](https://github.com/deta/deta-cli)
+2. 🎉 Merged PR [#197](https://github.com/xorgram/xor/pull/197) in [xorgram/xor](https://github.com/xorgram/xor)
+3. ❗️ Closed issue [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+4. 🗣 Commented on [#3](https://github.com/ArnabXD/GmailBomber/issues/3) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+5. 🎉 Merged PR [#20](https://github.com/ArnabXD/bins-su-api/pull/20) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
 <!--END_SECTION:activity-->
 
 ---
