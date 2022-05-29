@@ -16,11 +16,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ArnabXD/Bin-Lookup/pull/14) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+1. 🎉 Merged PR [#107](https://github.com/ArnabXD/TGVCBot/pull/107) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 2. 🗣 Commented on [#1137](https://github.com/cloudflare/wrangler2/issues/1137) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
-3. 💪 Opened PR [#1137](https://github.com/cloudflare/wrangler2/pull/1137) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
-4. 🎉 Merged PR [#106](https://github.com/ArnabXD/TGVCBot/pull/106) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. ❗️ Opened issue [#95](https://github.com/deta/deta-cli/issues/95) in [deta/deta-cli](https://github.com/deta/deta-cli)
+3. 🎉 Merged PR [#14](https://github.com/ArnabXD/Bin-Lookup/pull/14) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+4. 🗣 Commented on [#1137](https://github.com/cloudflare/wrangler2/issues/1137) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
+5. 💪 Opened PR [#1137](https://github.com/cloudflare/wrangler2/pull/1137) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
 <!--END_SECTION:activity-->
 
 ---
