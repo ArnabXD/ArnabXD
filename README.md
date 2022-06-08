@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ArnabXD/AnimeDB-tgbot/pull/13) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-2. ❌ Closed PR [#14](https://github.com/ArnabXD/AnimeDB-tgbot/pull/14) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-3. 🎉 Merged PR [#10](https://github.com/ArnabXD/AnimeDB-tgbot/pull/10) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-4. 🎉 Merged PR [#11](https://github.com/ArnabXD/AnimeDB-tgbot/pull/11) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-5. 🎉 Merged PR [#9](https://github.com/ArnabXD/AnimeDB-tgbot/pull/9) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+1. 🎉 Merged PR [#126](https://github.com/ArnabXD/TGVCBot/pull/126) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 🎉 Merged PR [#125](https://github.com/ArnabXD/TGVCBot/pull/125) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. 🎉 Merged PR [#124](https://github.com/ArnabXD/TGVCBot/pull/124) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+4. 🎉 Merged PR [#13](https://github.com/ArnabXD/AnimeDB-tgbot/pull/13) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+5. ❌ Closed PR [#14](https://github.com/ArnabXD/AnimeDB-tgbot/pull/14) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
 <!--END_SECTION:activity-->
 
 ---
