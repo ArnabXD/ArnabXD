@@ -1,4 +1,4 @@
-# 🙎 About Me :
+# 🧑‍💻 About Me :
 * I am currently working on [xor](https://github.com/xorgram/xor) & [TGVCBot](https://github.com/ArnabXD/TGVCBot).
 * I mostly make mobile apps with `react-native` website with `next-js`.
 * I am a typescript guy but also writes some python.
