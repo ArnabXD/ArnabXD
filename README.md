@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/ArnabXD/Dropbox-Index/pull/79) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-2. ❗️ Closed issue [#74](https://github.com/ArnabXD/Dropbox-Index/issues/74) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🗣 Commented on [#74](https://github.com/ArnabXD/Dropbox-Index/issues/74) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-4. 🎉 Merged PR [#127](https://github.com/ArnabXD/TGVCBot/pull/127) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 🎉 Merged PR [#126](https://github.com/ArnabXD/TGVCBot/pull/126) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. 🎉 Merged PR [#77](https://github.com/ArnabXD/Dropbox-Index/pull/77) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+2. 🎉 Merged PR [#76](https://github.com/ArnabXD/Dropbox-Index/pull/76) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+3. 🎉 Merged PR [#79](https://github.com/ArnabXD/Dropbox-Index/pull/79) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. ❗️ Closed issue [#74](https://github.com/ArnabXD/Dropbox-Index/issues/74) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+5. 🗣 Commented on [#74](https://github.com/ArnabXD/Dropbox-Index/issues/74) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
