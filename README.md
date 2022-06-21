@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/ArnabXD/Dropbox-Index/pull/82) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-2. 🎉 Merged PR [#86](https://github.com/ArnabXD/Dropbox-Index/pull/86) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🎉 Merged PR [#144](https://github.com/ArnabXD/TGVCBot/pull/144) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-4. 💪 Opened PR [#144](https://github.com/ArnabXD/TGVCBot/pull/144) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 🎉 Merged PR [#143](https://github.com/ArnabXD/TGVCBot/pull/143) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. 🎉 Merged PR [#16](https://github.com/ArnabXD/AnimeDB-tgbot/pull/16) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+2. 🎉 Merged PR [#82](https://github.com/ArnabXD/Dropbox-Index/pull/82) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+3. 🎉 Merged PR [#86](https://github.com/ArnabXD/Dropbox-Index/pull/86) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. 🎉 Merged PR [#144](https://github.com/ArnabXD/TGVCBot/pull/144) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+5. 💪 Opened PR [#144](https://github.com/ArnabXD/TGVCBot/pull/144) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
