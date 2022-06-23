@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/ArnabXD/TGVCBot/pull/147) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. 🎉 Merged PR [#23](https://github.com/ArnabXD/Bin-Lookup/pull/23) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-3. 🎉 Merged PR [#25](https://github.com/ArnabXD/Bin-Lookup/pull/25) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-4. 🎉 Merged PR [#21](https://github.com/ArnabXD/Bin-Lookup/pull/21) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-5. 🎉 Merged PR [#146](https://github.com/ArnabXD/TGVCBot/pull/146) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. 🎉 Merged PR [#148](https://github.com/ArnabXD/TGVCBot/pull/148) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 🎉 Merged PR [#147](https://github.com/ArnabXD/TGVCBot/pull/147) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. 🎉 Merged PR [#23](https://github.com/ArnabXD/Bin-Lookup/pull/23) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+4. 🎉 Merged PR [#25](https://github.com/ArnabXD/Bin-Lookup/pull/25) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+5. 🎉 Merged PR [#21](https://github.com/ArnabXD/Bin-Lookup/pull/21) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
 <!--END_SECTION:activity-->
 
 ---
