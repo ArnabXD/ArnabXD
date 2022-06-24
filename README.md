@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ArnabXD/bins-ws-api/pull/14) in [ArnabXD/bins-ws-api](https://github.com/ArnabXD/bins-ws-api)
-2. 🎉 Merged PR [#149](https://github.com/ArnabXD/TGVCBot/pull/149) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-3. 🎉 Merged PR [#24](https://github.com/ArnabXD/Bin-Lookup/pull/24) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-4. 🎉 Merged PR [#148](https://github.com/ArnabXD/TGVCBot/pull/148) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 🎉 Merged PR [#147](https://github.com/ArnabXD/TGVCBot/pull/147) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. 🎉 Merged PR [#151](https://github.com/ArnabXD/TGVCBot/pull/151) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 🎉 Merged PR [#150](https://github.com/ArnabXD/TGVCBot/pull/150) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. 🎉 Merged PR [#21](https://github.com/ArnabXD/bins-su-api/pull/21) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+4. 🎉 Merged PR [#14](https://github.com/ArnabXD/bins-ws-api/pull/14) in [ArnabXD/bins-ws-api](https://github.com/ArnabXD/bins-ws-api)
+5. 🎉 Merged PR [#149](https://github.com/ArnabXD/TGVCBot/pull/149) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
