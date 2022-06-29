@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/ArnabXD/Dropbox-Index/pull/93) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-2. 🎉 Merged PR [#92](https://github.com/ArnabXD/Dropbox-Index/pull/92) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. ❌ Closed PR [#90](https://github.com/ArnabXD/Dropbox-Index/pull/90) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-4. ❌ Closed PR [#85](https://github.com/ArnabXD/Dropbox-Index/pull/85) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. ❌ Closed PR [#91](https://github.com/ArnabXD/Dropbox-Index/pull/91) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🎉 Merged PR [#96](https://github.com/ArnabXD/Dropbox-Index/pull/96) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+2. 🎉 Merged PR [#98](https://github.com/ArnabXD/Dropbox-Index/pull/98) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+3. 🎉 Merged PR [#93](https://github.com/ArnabXD/Dropbox-Index/pull/93) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. 🎉 Merged PR [#92](https://github.com/ArnabXD/Dropbox-Index/pull/92) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+5. ❌ Closed PR [#90](https://github.com/ArnabXD/Dropbox-Index/pull/90) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
