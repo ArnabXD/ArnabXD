@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/ArnabXD/TGVCBot/pull/175) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. 🎉 Merged PR [#164](https://github.com/ArnabXD/TGVCBot/pull/164) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-3. 🎉 Merged PR [#167](https://github.com/ArnabXD/TGVCBot/pull/167) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-4. 🎉 Merged PR [#173](https://github.com/ArnabXD/TGVCBot/pull/173) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 💪 Opened PR [#220](https://github.com/xorgram/xor/pull/220) in [xorgram/xor](https://github.com/xorgram/xor)
+1. 🎉 Merged PR [#177](https://github.com/ArnabXD/TGVCBot/pull/177) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 🎉 Merged PR [#175](https://github.com/ArnabXD/TGVCBot/pull/175) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. 🎉 Merged PR [#164](https://github.com/ArnabXD/TGVCBot/pull/164) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+4. 🎉 Merged PR [#167](https://github.com/ArnabXD/TGVCBot/pull/167) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+5. 🎉 Merged PR [#173](https://github.com/ArnabXD/TGVCBot/pull/173) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
