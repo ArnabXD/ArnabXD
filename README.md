@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
-2. 🎉 Merged PR [#237](https://github.com/xorgram/xor/pull/237) in [xorgram/xor](https://github.com/xorgram/xor)
-3. 🗣 Commented on [#23](https://github.com/ArnabXD/bins-su-api/issues/23) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. 🎉 Merged PR [#118](https://github.com/ArnabXD/Dropbox-Index/pull/118) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. 🎉 Merged PR [#116](https://github.com/ArnabXD/Dropbox-Index/pull/116) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🎉 Merged PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
+2. 💪 Opened PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
+3. 🎉 Merged PR [#237](https://github.com/xorgram/xor/pull/237) in [xorgram/xor](https://github.com/xorgram/xor)
+4. 🗣 Commented on [#23](https://github.com/ArnabXD/bins-su-api/issues/23) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+5. 🎉 Merged PR [#118](https://github.com/ArnabXD/Dropbox-Index/pull/118) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
