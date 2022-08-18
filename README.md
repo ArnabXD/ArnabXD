@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/ArnabXD/Dropbox-Index/pull/114) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-2. 🎉 Merged PR [#6](https://github.com/xorgram/heroku/pull/6) in [xorgram/heroku](https://github.com/xorgram/heroku)
-3. 🎉 Merged PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
-4. 💪 Opened PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
-5. 🎉 Merged PR [#237](https://github.com/xorgram/xor/pull/237) in [xorgram/xor](https://github.com/xorgram/xor)
+1. 🎉 Merged PR [#1](https://github.com/ArnabXD/deno-dlwp/pull/1) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+2. 💪 Opened PR [#1](https://github.com/ArnabXD/deno-dlwp/pull/1) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+3. 🎉 Merged PR [#114](https://github.com/ArnabXD/Dropbox-Index/pull/114) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. 🎉 Merged PR [#6](https://github.com/xorgram/heroku/pull/6) in [xorgram/heroku](https://github.com/xorgram/heroku)
+5. 🎉 Merged PR [#238](https://github.com/xorgram/xor/pull/238) in [xorgram/xor](https://github.com/xorgram/xor)
 <!--END_SECTION:activity-->
 
 ---
