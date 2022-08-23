@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ArnabXD/deno-dlwp/pull/2) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-2. 💪 Opened PR [#2](https://github.com/ArnabXD/deno-dlwp/pull/2) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-3. 🎉 Merged PR [#1](https://github.com/ArnabXD/deno-dlwp/pull/1) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-4. 💪 Opened PR [#1](https://github.com/ArnabXD/deno-dlwp/pull/1) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-5. 🎉 Merged PR [#114](https://github.com/ArnabXD/Dropbox-Index/pull/114) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🎉 Merged PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+2. 💪 Opened PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+3. 🎉 Merged PR [#2](https://github.com/ArnabXD/deno-dlwp/pull/2) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+4. 💪 Opened PR [#2](https://github.com/ArnabXD/deno-dlwp/pull/2) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+5. 🎉 Merged PR [#1](https://github.com/ArnabXD/deno-dlwp/pull/1) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
 <!--END_SECTION:activity-->
 
 ---
