@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/ArnabXD/deno-dlwp/pull/3) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-2. 💪 Opened PR [#1](https://github.com/xditya/WhatsUB/pull/1) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-3. 🎉 Merged PR [#30](https://github.com/ArnabXD/Bin-Lookup/pull/30) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-4. 🎉 Merged PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-5. 💪 Opened PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+1. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+2. ❌ Closed PR [#3](https://github.com/ArnabXD/deno-dlwp/pull/3) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+3. 💪 Opened PR [#1](https://github.com/xditya/WhatsUB/pull/1) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+4. 🎉 Merged PR [#30](https://github.com/ArnabXD/Bin-Lookup/pull/30) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+5. 🎉 Merged PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
 <!--END_SECTION:activity-->
 
 ---
