@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
-2. ❌ Closed PR [#3](https://github.com/ArnabXD/deno-dlwp/pull/3) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
-3. 💪 Opened PR [#1](https://github.com/xditya/WhatsUB/pull/1) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-4. 🎉 Merged PR [#30](https://github.com/ArnabXD/Bin-Lookup/pull/30) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-5. 🎉 Merged PR [#4](https://github.com/ArnabXD/deno-dlwp/pull/4) in [ArnabXD/deno-dlwp](https://github.com/ArnabXD/deno-dlwp)
+1. ❌ Closed PR [#19](https://github.com/ArnabXD/AnimeDB-tgbot/pull/19) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+2. ❌ Closed PR [#17](https://github.com/ArnabXD/AnimeDB-tgbot/pull/17) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+3. ❌ Closed PR [#18](https://github.com/ArnabXD/AnimeDB-tgbot/pull/18) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+4. ❌ Closed PR [#20](https://github.com/ArnabXD/AnimeDB-tgbot/pull/20) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+5. ❌ Closed PR [#21](https://github.com/ArnabXD/AnimeDB-tgbot/pull/21) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
 <!--END_SECTION:activity-->
 
 ---
