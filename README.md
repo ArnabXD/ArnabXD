@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/ArnabXD/AnimeDB-tgbot/issues/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-2. ❌ Closed PR [#19](https://github.com/ArnabXD/AnimeDB-tgbot/pull/19) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-3. ❌ Closed PR [#17](https://github.com/ArnabXD/AnimeDB-tgbot/pull/17) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-4. ❌ Closed PR [#18](https://github.com/ArnabXD/AnimeDB-tgbot/pull/18) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-5. ❌ Closed PR [#20](https://github.com/ArnabXD/AnimeDB-tgbot/pull/20) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+1. 🗣 Commented on [#25](https://github.com/moderent/moderent/issues/25) in [moderent/moderent](https://github.com/moderent/moderent)
+2. 🗣 Commented on [#22](https://github.com/ArnabXD/AnimeDB-tgbot/issues/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+3. ❌ Closed PR [#19](https://github.com/ArnabXD/AnimeDB-tgbot/pull/19) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+4. ❌ Closed PR [#17](https://github.com/ArnabXD/AnimeDB-tgbot/pull/17) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+5. ❌ Closed PR [#18](https://github.com/ArnabXD/AnimeDB-tgbot/pull/18) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
 <!--END_SECTION:activity-->
 
 ---
