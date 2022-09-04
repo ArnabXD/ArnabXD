@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/ArnabXD/AnimeDB-tgbot/issues/15) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-2. 🎉 Merged PR [#22](https://github.com/ArnabXD/AnimeDB-tgbot/pull/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-3. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+1. ❌ Closed PR [#171](https://github.com/ArnabXD/TGVCBot/pull/171) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. ❗️ Closed issue [#15](https://github.com/ArnabXD/AnimeDB-tgbot/issues/15) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+3. 🎉 Merged PR [#22](https://github.com/ArnabXD/AnimeDB-tgbot/pull/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
 4. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
-5. 🗣 Commented on [#25](https://github.com/moderent/moderent/issues/25) in [moderent/moderent](https://github.com/moderent/moderent)
+5. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
 <!--END_SECTION:activity-->
 
 ---
