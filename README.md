@@ -48,10 +48,10 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#171](https://github.com/ArnabXD/TGVCBot/pull/171) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. ❗️ Closed issue [#15](https://github.com/ArnabXD/AnimeDB-tgbot/issues/15) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-3. 🎉 Merged PR [#22](https://github.com/ArnabXD/AnimeDB-tgbot/pull/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
-4. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+1. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+2. ❌ Closed PR [#171](https://github.com/ArnabXD/TGVCBot/pull/171) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. ❗️ Closed issue [#15](https://github.com/ArnabXD/AnimeDB-tgbot/issues/15) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+4. 🎉 Merged PR [#22](https://github.com/ArnabXD/AnimeDB-tgbot/pull/22) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
 5. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
 <!--END_SECTION:activity-->
 
