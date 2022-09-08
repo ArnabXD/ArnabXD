@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#186](https://github.com/ArnabXD/TGVCBot/pull/186) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+1. 🗣 Commented on [#365](https://github.com/TeamUltroid/Ultroid/issues/365) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. ❌ Closed PR [#186](https://github.com/ArnabXD/TGVCBot/pull/186) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 3. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
-4. ❌ Closed PR [#171](https://github.com/ArnabXD/TGVCBot/pull/171) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. ❗️ Closed issue [#15](https://github.com/ArnabXD/AnimeDB-tgbot/issues/15) in [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot)
+4. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+5. ❌ Closed PR [#171](https://github.com/ArnabXD/TGVCBot/pull/171) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
