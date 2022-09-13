@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#187](https://github.com/ArnabXD/TGVCBot/pull/187) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. 💪 Opened PR [#27](https://github.com/grammyjs/awesome-grammY/pull/27) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
-3. 🗣 Commented on [#365](https://github.com/TeamUltroid/Ultroid/issues/365) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#186](https://github.com/ArnabXD/TGVCBot/pull/186) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+1. ❗️ Closed issue [#76](https://github.com/ArnabXD/TGVCBot/issues/76) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 🎉 Merged PR [#179](https://github.com/ArnabXD/TGVCBot/pull/179) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. ❌ Closed PR [#181](https://github.com/ArnabXD/TGVCBot/pull/181) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+4. ❌ Closed PR [#174](https://github.com/ArnabXD/TGVCBot/pull/174) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+5. ❌ Closed PR [#176](https://github.com/ArnabXD/TGVCBot/pull/176) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
