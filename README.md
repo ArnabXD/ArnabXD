@@ -48,10 +48,10 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/grammyjs/awesome-grammY/pull/27) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
-2. 🗣 Commented on [#365](https://github.com/TeamUltroid/Ultroid/issues/365) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. ❌ Closed PR [#186](https://github.com/ArnabXD/TGVCBot/pull/186) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-4. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
+1. ❌ Closed PR [#187](https://github.com/ArnabXD/TGVCBot/pull/187) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. 💪 Opened PR [#27](https://github.com/grammyjs/awesome-grammY/pull/27) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
+3. 🗣 Commented on [#365](https://github.com/TeamUltroid/Ultroid/issues/365) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❌ Closed PR [#186](https://github.com/ArnabXD/TGVCBot/pull/186) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 5. 🗣 Commented on [#3](https://github.com/ArtCodeStudio/graphql-request/issues/3) in [ArtCodeStudio/graphql-request](https://github.com/ArtCodeStudio/graphql-request)
 <!--END_SECTION:activity-->
 
