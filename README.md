@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#76](https://github.com/ArnabXD/TGVCBot/issues/76) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-2. 🎉 Merged PR [#179](https://github.com/ArnabXD/TGVCBot/pull/179) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-3. ❌ Closed PR [#181](https://github.com/ArnabXD/TGVCBot/pull/181) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-4. ❌ Closed PR [#174](https://github.com/ArnabXD/TGVCBot/pull/174) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. ❌ Closed PR [#176](https://github.com/ArnabXD/TGVCBot/pull/176) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. ❗️ Opened issue [#4100](https://github.com/facebook/flipper/issues/4100) in [facebook/flipper](https://github.com/facebook/flipper)
+2. ❗️ Closed issue [#76](https://github.com/ArnabXD/TGVCBot/issues/76) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+3. 🎉 Merged PR [#179](https://github.com/ArnabXD/TGVCBot/pull/179) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+4. ❌ Closed PR [#181](https://github.com/ArnabXD/TGVCBot/pull/181) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+5. ❌ Closed PR [#174](https://github.com/ArnabXD/TGVCBot/pull/174) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
