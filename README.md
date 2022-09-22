@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ArnabXD/GmailBomber/issues/4) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
-2. ❗️ Opened issue [#4100](https://github.com/facebook/flipper/issues/4100) in [facebook/flipper](https://github.com/facebook/flipper)
-3. ❗️ Closed issue [#76](https://github.com/ArnabXD/TGVCBot/issues/76) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-4. 🎉 Merged PR [#179](https://github.com/ArnabXD/TGVCBot/pull/179) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. ❌ Closed PR [#181](https://github.com/ArnabXD/TGVCBot/pull/181) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. ❌ Closed PR [#4](https://github.com/ArnabXD/GmailBomber/pull/4) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+2. 🗣 Commented on [#4](https://github.com/ArnabXD/GmailBomber/issues/4) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+3. ❗️ Opened issue [#4100](https://github.com/facebook/flipper/issues/4100) in [facebook/flipper](https://github.com/facebook/flipper)
+4. ❗️ Closed issue [#76](https://github.com/ArnabXD/TGVCBot/issues/76) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+5. 🎉 Merged PR [#179](https://github.com/ArnabXD/TGVCBot/pull/179) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
