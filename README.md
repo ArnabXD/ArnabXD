@@ -51,8 +51,8 @@ module.exports = {
 1. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 2. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 3. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-4. 🎉 Merged PR [#39](https://github.com/ArnabXD/Bin-Lookup/pull/39) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-5. 🗣 Commented on [#482](https://github.com/Kureev/react-native-blur/issues/482) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
+4. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+5. 🎉 Merged PR [#39](https://github.com/ArnabXD/Bin-Lookup/pull/39) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
 <!--END_SECTION:activity-->
 
 ---
