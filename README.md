@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/ArnabXD/Bin-Lookup/pull/39) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
-2. 🗣 Commented on [#482](https://github.com/Kureev/react-native-blur/issues/482) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
-3. 🗣 Commented on [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. 🗣 Commented on [#89](https://github.com/ArnabXD/Dropbox-Index/issues/89) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. ❌ Closed PR [#4](https://github.com/ArnabXD/GmailBomber/pull/4) in [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber)
+1. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+2. 🎉 Merged PR [#39](https://github.com/ArnabXD/Bin-Lookup/pull/39) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+3. 🗣 Commented on [#482](https://github.com/Kureev/react-native-blur/issues/482) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
+4. 🗣 Commented on [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+5. 🗣 Commented on [#89](https://github.com/ArnabXD/Dropbox-Index/issues/89) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
