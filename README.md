@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-2. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-4. 🗣 Commented on [#126](https://github.com/ArnabXD/Dropbox-Index/issues/126) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. 🎉 Merged PR [#39](https://github.com/ArnabXD/Bin-Lookup/pull/39) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+1. 🗣 Commented on [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+2. ❌ Closed PR [#32](https://github.com/ArnabXD/Bin-Lookup/pull/32) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+3. ❌ Closed PR [#33](https://github.com/ArnabXD/Bin-Lookup/pull/33) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+4. ❌ Closed PR [#34](https://github.com/ArnabXD/Bin-Lookup/pull/34) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
+5. ❌ Closed PR [#35](https://github.com/ArnabXD/Bin-Lookup/pull/35) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
 <!--END_SECTION:activity-->
 
 ---
