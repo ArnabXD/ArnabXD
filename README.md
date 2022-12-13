@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/ArnabXD/bins-su-api/pull/28) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-2. 💪 Opened PR [#28](https://github.com/ArnabXD/bins-su-api/pull/28) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-3. ❌ Closed PR [#27](https://github.com/ArnabXD/bins-su-api/pull/27) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. ❌ Closed PR [#25](https://github.com/ArnabXD/bins-su-api/pull/25) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-5. 🗣 Commented on [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+1. ❗️ Closed issue [#17](https://github.com/ArnabXD/bins-su-api/issues/17) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+2. ❗️ Closed issue [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+3. 🗣 Commented on [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+4. 🗣 Commented on [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+5. 🎉 Merged PR [#28](https://github.com/ArnabXD/bins-su-api/pull/28) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
 <!--END_SECTION:activity-->
 
 ---
