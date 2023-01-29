@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-2. ❗️ Closed issue [#17](https://github.com/ArnabXD/bins-su-api/issues/17) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-3. ❗️ Closed issue [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. 🗣 Commented on [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-5. 🗣 Commented on [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+1. 🗣 Commented on [#189](https://github.com/ArnabXD/TGVCBot/issues/189) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+2. ❗️ Closed issue [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+3. ❗️ Closed issue [#17](https://github.com/ArnabXD/bins-su-api/issues/17) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+4. ❗️ Closed issue [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+5. 🗣 Commented on [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
 <!--END_SECTION:activity-->
 
 ---
