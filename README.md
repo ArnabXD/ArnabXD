@@ -48,10 +48,10 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/ArnabXD/bins-su-api/pull/29) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-2. 🗣 Commented on [#189](https://github.com/ArnabXD/TGVCBot/issues/189) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-3. ❗️ Closed issue [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
-4. ❗️ Closed issue [#17](https://github.com/ArnabXD/bins-su-api/issues/17) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+1. ❗️ Opened issue [#2328](https://github.com/payloadcms/payload/issues/2328) in [payloadcms/payload](https://github.com/payloadcms/payload)
+2. 🎉 Merged PR [#29](https://github.com/ArnabXD/bins-su-api/pull/29) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
+3. 🗣 Commented on [#189](https://github.com/ArnabXD/TGVCBot/issues/189) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+4. ❗️ Closed issue [#26](https://github.com/ArnabXD/bins-su-api/issues/26) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
 5. ❗️ Closed issue [#24](https://github.com/ArnabXD/bins-su-api/issues/24) in [ArnabXD/bins-su-api](https://github.com/ArnabXD/bins-su-api)
 <!--END_SECTION:activity-->
 
