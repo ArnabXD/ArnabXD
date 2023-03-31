@@ -48,11 +48,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
+1. ❗️ Closed issue [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 2. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 3. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 4. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
-5. 🗣 Commented on [#2328](https://github.com/payloadcms/payload/issues/2328) in [payloadcms/payload](https://github.com/payloadcms/payload)
+5. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
 
 ---
