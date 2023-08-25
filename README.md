@@ -48,9 +48,9 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#94](https://github.com/ArnabXD/Dropbox-Index/issues/94) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🔒 Closed issue [#13](https://github.com/ArnabXD/Bin-Lookup/issues/13) in [ArnabXD/Bin-Lookup](https://github.com/ArnabXD/Bin-Lookup)
 2. 🔒 Closed issue [#94](https://github.com/ArnabXD/Dropbox-Index/issues/94) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🗣 Commented on [#949](https://github.com/software-mansion/react-native-reanimated/issues/949#issuecomment-1560452157) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+3. 🔒 Closed issue [#94](https://github.com/ArnabXD/Dropbox-Index/issues/94) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 4. 🔒 Closed issue [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 5. 🗣 Commented on [#191](https://github.com/ArnabXD/TGVCBot/issues/191) in [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot)
 <!--END_SECTION:activity-->
