@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/Eugnis/react-native-timeline-flatlist/pull/83#issuecomment-2047076714) in [Eugnis/react-native-timeline-flatlist](https://github.com/Eugnis/react-native-timeline-flatlist)
-2. 🗣 Commented on [#134](https://github.com/ArnabXD/Dropbox-Index/issues/134#issuecomment-1940566840) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🗣 Commented on [#157](https://github.com/hoaphantn7604/react-native-element-dropdown/issues/157#issuecomment-1893214927) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)
-4. 🗣 Commented on [#131](https://github.com/ArnabXD/Dropbox-Index/issues/131#issuecomment-1770093134) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. 🗣 Commented on [#39080](https://github.com/facebook/react-native/issues/39080#issuecomment-1715585498) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 🎉 Merged PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+2. 💪 Opened PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+3. 🎉 Merged PR [#1](https://github.com/ArnabXD/aproxy/pull/1) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+4. 💪 Opened PR [#1](https://github.com/ArnabXD/aproxy/pull/1) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+5. 💪 Opened PR [#139](https://github.com/ArnabXD/Dropbox-Index/pull/139) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
