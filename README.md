@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-2. 💪 Opened PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-3. 🎉 Merged PR [#1](https://github.com/ArnabXD/aproxy/pull/1) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-4. 💪 Opened PR [#1](https://github.com/ArnabXD/aproxy/pull/1) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-5. 💪 Opened PR [#139](https://github.com/ArnabXD/Dropbox-Index/pull/139) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🎉 Merged PR [#4](https://github.com/ArnabXD/aproxy/pull/4) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+2. 💪 Opened PR [#4](https://github.com/ArnabXD/aproxy/pull/4) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+3. 🎉 Merged PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+4. 💪 Opened PR [#2](https://github.com/ArnabXD/aproxy/pull/2) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+5. 🎉 Merged PR [#1](https://github.com/ArnabXD/aproxy/pull/1) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
 <!--END_SECTION:activity-->
 
 ---
