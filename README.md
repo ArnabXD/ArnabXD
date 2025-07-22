@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ArnabXD/aproxy/pull/6) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-2. 🎉 Merged PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-3. 💪 Opened PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-4. 🗣 Commented on [#2098](https://github.com/Dokploy/dokploy/issues/2098#issuecomment-3031903501) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-5. 🎉 Merged PR [#4](https://github.com/ArnabXD/aproxy/pull/4) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+1. 💪 Opened PR [#1](https://github.com/xorgram/pls/pull/1) in [xorgram/pls](https://github.com/xorgram/pls)
+2. 🎉 Merged PR [#6](https://github.com/ArnabXD/aproxy/pull/6) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+3. 🎉 Merged PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+4. 💪 Opened PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+5. 🗣 Commented on [#2098](https://github.com/Dokploy/dokploy/issues/2098#issuecomment-3031903501) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
 
 ---
