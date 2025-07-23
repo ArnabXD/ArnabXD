@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MTKruto/parse/pull/1) in [MTKruto/parse](https://github.com/MTKruto/parse)
-2. 💪 Opened PR [#1](https://github.com/xorgram/pls/pull/1) in [xorgram/pls](https://github.com/xorgram/pls)
-3. 🎉 Merged PR [#6](https://github.com/ArnabXD/aproxy/pull/6) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-4. 🎉 Merged PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-5. 💪 Opened PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+1. 🎉 Merged PR [#1](https://github.com/xorgram/pls/pull/1) in [xorgram/pls](https://github.com/xorgram/pls)
+2. 💪 Opened PR [#1](https://github.com/MTKruto/parse/pull/1) in [MTKruto/parse](https://github.com/MTKruto/parse)
+3. 💪 Opened PR [#1](https://github.com/xorgram/pls/pull/1) in [xorgram/pls](https://github.com/xorgram/pls)
+4. 🎉 Merged PR [#6](https://github.com/ArnabXD/aproxy/pull/6) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+5. 🎉 Merged PR [#5](https://github.com/ArnabXD/aproxy/pull/5) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
 <!--END_SECTION:activity-->
 
 ---
