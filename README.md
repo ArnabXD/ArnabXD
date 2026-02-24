@@ -3,7 +3,7 @@
 **Full-Stack Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
 
 # 🧑‍💻 About Me :
-* I am currently working on [aproxy](https://github.com/ArnabXD/aproxy).
+* I am currently working on [emulaunch](https://github.com/ArnabXD/emulaunch).
 * I mostly make mobile apps with `react-native` website with `next-js`, picked up `go` recently.
 
 ## 🌐 Socials :
