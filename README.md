@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-2. 💪 Opened PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-3. 🎉 Merged PR [#1](https://github.com/ArnabXD/emulaunch/pull/1) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-4. 💪 Opened PR [#1](https://github.com/ArnabXD/emulaunch/pull/1) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-5. 💪 Opened PR [#142](https://github.com/ArnabXD/Dropbox-Index/pull/142) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🎉 Merged PR [#3](https://github.com/ArnabXD/emulaunch/pull/3) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
+2. 💪 Opened PR [#3](https://github.com/ArnabXD/emulaunch/pull/3) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
+3. 🎉 Merged PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
+4. 💪 Opened PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
+5. 🎉 Merged PR [#1](https://github.com/ArnabXD/emulaunch/pull/1) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
 <!--END_SECTION:activity-->
 
 ---
