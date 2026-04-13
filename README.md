@@ -51,10 +51,10 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ArnabXD/whatspurr/pull/1) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-2. 💪 Opened PR [#1](https://github.com/ArnabXD/whatspurr/pull/1) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-3. 🎉 Merged PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-4. 💪 Opened PR [#2](https://github.com/ArnabXD/emulaunch/pull/2) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
+1. 🎉 Merged PR [#2](https://github.com/ArnabXD/whatspurr/pull/2) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+2. 💪 Opened PR [#2](https://github.com/ArnabXD/whatspurr/pull/2) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+3. 🎉 Merged PR [#1](https://github.com/ArnabXD/whatspurr/pull/1) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+4. 💪 Opened PR [#1](https://github.com/ArnabXD/whatspurr/pull/1) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
 5. 🎉 Merged PR [#1](https://github.com/ArnabXD/emulaunch/pull/1) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
 <!--END_SECTION:activity-->
 
