@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/ArnabXD/whatspurr/issues/4) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-2. 🗣 Commented on [#4](https://github.com/ArnabXD/whatspurr/issues/4#issuecomment-4254476892) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-3. 🎉 Merged PR [#2](https://github.com/ArnabXD/whatspurr/pull/2) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-4. 💪 Opened PR [#2](https://github.com/ArnabXD/whatspurr/pull/2) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-5. 🎉 Merged PR [#1](https://github.com/ArnabXD/whatspurr/pull/1) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+1. 🎉 Merged PR [#6](https://github.com/ArnabXD/whatspurr/pull/6) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+2. 💪 Opened PR [#6](https://github.com/ArnabXD/whatspurr/pull/6) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+3. 🔒 Closed issue [#4](https://github.com/ArnabXD/whatspurr/issues/4) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+4. 🗣 Commented on [#4](https://github.com/ArnabXD/whatspurr/issues/4#issuecomment-4254476892) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+5. 🎉 Merged PR [#2](https://github.com/ArnabXD/whatspurr/pull/2) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
 <!--END_SECTION:activity-->
 
 ---
