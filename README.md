@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ArnabXD/whatspurr/pull/8) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-2. 💪 Opened PR [#8](https://github.com/ArnabXD/whatspurr/pull/8) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-3. 🎉 Merged PR [#7](https://github.com/ArnabXD/whatspurr/pull/7) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-4. 💪 Opened PR [#7](https://github.com/ArnabXD/whatspurr/pull/7) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-5. 🎉 Merged PR [#6](https://github.com/ArnabXD/whatspurr/pull/6) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+1. 💪 Opened PR [#9](https://github.com/ArnabXD/whatspurr/pull/9) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+2. 🎉 Merged PR [#8](https://github.com/ArnabXD/whatspurr/pull/8) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+3. 💪 Opened PR [#8](https://github.com/ArnabXD/whatspurr/pull/8) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+4. 🎉 Merged PR [#7](https://github.com/ArnabXD/whatspurr/pull/7) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+5. 💪 Opened PR [#7](https://github.com/ArnabXD/whatspurr/pull/7) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
 <!--END_SECTION:activity-->
 
 ---
