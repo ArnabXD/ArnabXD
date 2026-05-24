@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/ArnabXD/arnabxd.me/pull/15) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-2. 💪 Opened PR [#15](https://github.com/ArnabXD/arnabxd.me/pull/15) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-3. 🎉 Merged PR [#6](https://github.com/ArnabXD/emulaunch/pull/6) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-4. 💪 Opened PR [#6](https://github.com/ArnabXD/emulaunch/pull/6) in [ArnabXD/emulaunch](https://github.com/ArnabXD/emulaunch)
-5. 🎉 Merged PR [#13](https://github.com/ArnabXD/whatspurr/pull/13) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+1. 🎉 Merged PR [#18](https://github.com/ArnabXD/arnabxd.me/pull/18) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+2. 💪 Opened PR [#18](https://github.com/ArnabXD/arnabxd.me/pull/18) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+3. 🎉 Merged PR [#16](https://github.com/ArnabXD/arnabxd.me/pull/16) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+4. 💪 Opened PR [#16](https://github.com/ArnabXD/arnabxd.me/pull/16) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+5. 🎉 Merged PR [#15](https://github.com/ArnabXD/arnabxd.me/pull/15) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
 <!--END_SECTION:activity-->
 
 ---
