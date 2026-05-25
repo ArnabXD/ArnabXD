@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/ArnabXD/arnabxd.me/pull/18) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-2. 💪 Opened PR [#18](https://github.com/ArnabXD/arnabxd.me/pull/18) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-3. 🎉 Merged PR [#16](https://github.com/ArnabXD/arnabxd.me/pull/16) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-4. 💪 Opened PR [#16](https://github.com/ArnabXD/arnabxd.me/pull/16) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-5. 🎉 Merged PR [#15](https://github.com/ArnabXD/arnabxd.me/pull/15) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+1. 🗣 Commented on [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365#issuecomment-4531807980) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+2. ℹ️ Labeled issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+3. ℹ️ Labeled issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+4. ❗ Opened issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+5. 🎉 Merged PR [#18](https://github.com/ArnabXD/arnabxd.me/pull/18) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
 <!--END_SECTION:activity-->
 
 ---
