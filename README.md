@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365#issuecomment-4534559663) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-2. 🗣 Commented on [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365#issuecomment-4531807980) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-3. ℹ️ Labeled issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-4. ℹ️ Labeled issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-5. ❗ Opened issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+1. ❗ Opened issue [#2](https://github.com/ArnabXD/ntgcalls-napi/issues/2) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+2. ❗ Opened issue [#1](https://github.com/ArnabXD/ntgcalls-napi/issues/1) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+3. 🗣 Commented on [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365#issuecomment-4534559663) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+4. 🗣 Commented on [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365#issuecomment-4531807980) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+5. ℹ️ Labeled issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 <!--END_SECTION:activity-->
 
 ---
