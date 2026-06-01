@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ArnabXD/ntgcalls-napi/pull/4) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
-2. 🔒 Closed issue [#2](https://github.com/ArnabXD/ntgcalls-napi/issues/2) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
-3. 💪 Opened PR [#4](https://github.com/ArnabXD/ntgcalls-napi/pull/4) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
-4. 🎉 Merged PR [#3](https://github.com/ArnabXD/ntgcalls-napi/pull/3) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
-5. 🔒 Closed issue [#1](https://github.com/ArnabXD/ntgcalls-napi/issues/1) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+1. 🎉 Merged PR [#5](https://github.com/ArnabXD/ntgcalls-napi/pull/5) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+2. 💪 Opened PR [#5](https://github.com/ArnabXD/ntgcalls-napi/pull/5) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+3. 🎉 Merged PR [#4](https://github.com/ArnabXD/ntgcalls-napi/pull/4) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+4. 🔒 Closed issue [#2](https://github.com/ArnabXD/ntgcalls-napi/issues/2) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+5. 💪 Opened PR [#4](https://github.com/ArnabXD/ntgcalls-napi/pull/4) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
 <!--END_SECTION:activity-->
 
 ---
