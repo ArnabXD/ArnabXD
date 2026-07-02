@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ArnabXD/aproxy/pull/7) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-2. 💪 Opened PR [#7](https://github.com/ArnabXD/aproxy/pull/7) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
-3. 💪 Opened PR [#20](https://github.com/ArnabXD/arnabxd.me/pull/20) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-4. 🗣 Commented on [#6](https://github.com/ArnabXD/ntgcalls-napi/issues/6#issuecomment-4695345743) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
-5. 🎉 Merged PR [#5](https://github.com/ArnabXD/ntgcalls-napi/pull/5) in [ArnabXD/ntgcalls-napi](https://github.com/ArnabXD/ntgcalls-napi)
+1. 🎉 Merged PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+2. 💪 Opened PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
+3. 🎉 Merged PR [#7](https://github.com/ArnabXD/aproxy/pull/7) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+4. 💪 Opened PR [#7](https://github.com/ArnabXD/aproxy/pull/7) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+5. 💪 Opened PR [#20](https://github.com/ArnabXD/arnabxd.me/pull/20) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
 <!--END_SECTION:activity-->
 
 ---
