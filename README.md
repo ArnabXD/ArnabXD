@@ -51,7 +51,7 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ArnabXD/whatspurr/pull/24) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+1. 🔒 Closed issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 2. 💪 Opened PR [#24](https://github.com/ArnabXD/whatspurr/pull/24) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
 3. 🎉 Merged PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
 4. 💪 Opened PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
