@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#365](https://github.com/OpenCoworkAI/open-codesign/issues/365) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-2. 💪 Opened PR [#24](https://github.com/ArnabXD/whatspurr/pull/24) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-3. 🎉 Merged PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-4. 💪 Opened PR [#21](https://github.com/ArnabXD/arnabxd.me/pull/21) in [ArnabXD/arnabxd.me](https://github.com/ArnabXD/arnabxd.me)
-5. 🎉 Merged PR [#7](https://github.com/ArnabXD/aproxy/pull/7) in [ArnabXD/aproxy](https://github.com/ArnabXD/aproxy)
+1. 🚀 Published release [v2.0.0](https://github.com/ArnabXD/Dropbox-Index/releases/tag/v2.0.0) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+2. 🗣 Commented on [#138](https://github.com/ArnabXD/Dropbox-Index/pull/138#issuecomment-6217456505) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+3. ❌ Closed PR [#139](https://github.com/ArnabXD/Dropbox-Index/pull/139) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. ❌ Closed PR [#138](https://github.com/ArnabXD/Dropbox-Index/pull/138) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+5. ❌ Closed PR [#140](https://github.com/ArnabXD/Dropbox-Index/pull/140) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
