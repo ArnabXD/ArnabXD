@@ -51,11 +51,11 @@ module.exports = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.24](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.24) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-2. 🎉 Merged PR [#143](https://github.com/ArnabXD/Dropbox-Index/pull/143) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-3. 🚀 Published release [v2.0.0](https://github.com/ArnabXD/Dropbox-Index/releases/tag/v2.0.0) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-4. 🗣 Commented on [#138](https://github.com/ArnabXD/Dropbox-Index/pull/138#issuecomment-6217456505) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. ❌ Closed PR [#139](https://github.com/ArnabXD/Dropbox-Index/pull/139) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+1. 🚀 Published release [v0.1.25](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.25) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+2. 🚀 Published release [v0.1.24](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.24) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
+3. 🎉 Merged PR [#143](https://github.com/ArnabXD/Dropbox-Index/pull/143) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+4. 🚀 Published release [v2.0.0](https://github.com/ArnabXD/Dropbox-Index/releases/tag/v2.0.0) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
+5. 🗣 Commented on [#138](https://github.com/ArnabXD/Dropbox-Index/pull/138#issuecomment-6217456505) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
 <!--END_SECTION:activity-->
 
 ---
