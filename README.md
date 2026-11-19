@@ -1,61 +1,59 @@
-# Hi there, I'm Arnab! 👋
+# Hey, I'm Arnab 👋
 
-**Full-Stack Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
+**Software Engineer · Full-stack TypeScript · React Native**
 
-# 🧑‍💻 About Me :
-* I am currently working on [emulaunch](https://github.com/ArnabXD/emulaunch).
-* I mostly make mobile apps with `react-native` website with `next-js`, picked up `go` recently.
+I build web and mobile applications, developer tools, and backend systems. I enjoy working across the stack — from crafting user experiences to designing APIs, optimizing performance, and shipping things to production.
 
-## 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnabparyali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnabparyali) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ArnabXD) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12250600) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arnabparyali) 
+### A little about me
 
-# 💻 Tech Stack :
+- 📱 Primarily working with **React Native, Expo, React & Next.js**
+- ⚙️ Building backend systems with **Node.js, Bun, and TypeScript**
+- 🗄️ Comfortable with **PostgreSQL, MongoDB, Redis & Firebase**
+- 🤖 Exploring AI-assisted development, LLM integrations, and automation
+- 🦀 Experimenting with **Rust and Go**, particularly for developer tools
+- 🚀 Interested in self-hosting, infrastructure, and open-source software
 
-```js
-module.exports = {
-  languages: [
-    "javascript/typescript",
-    "python",
-    "go (learning)"
-  ],
-  databases: [
-    "mysql (mariadb)",
-    "postgres",
-    "mongodb",
-    "cloud firestore",
-  ],
-  libraries: [
-    "ReactJS",
-  ],
-  frameworks: [
-    "React Native",
-    "NextJS",
-    "Eleventy",
-    "Express",
-    "Fastify",
-    "GrammyJS",
-    ...["and a lot more"]
-  ],
-  misc: [
-    "Bots",
-    "Automation",
-    "CLI Tools",
-  ]
-}
-```
+### 🔭 Currently building
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ArnabXD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabXD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **[emulaunch](https://github.com/ArnabXD/emulaunch)** — A TUI to discover and launch Android emulators and iOS simulators.
+- **pg-pilot** — Exploring lightweight PostgreSQL management tooling.
+- **[whatspurr](https://github.com/ArnabXD/whatspurr)** — A developer-friendly WhatsApp library built around whatsmeow.
 
----
+### 🛠️ Tech Stack
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.28](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.28) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-2. 🚀 Published release [v0.1.27](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.27) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-3. 🚀 Published release [v0.1.25](https://github.com/ArnabXD/whatspurr/releases/tag/v0.1.25) in [ArnabXD/whatspurr](https://github.com/ArnabXD/whatspurr)
-4. 🎉 Merged PR [#143](https://github.com/ArnabXD/Dropbox-Index/pull/143) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-5. 🚀 Published release [v2.0.0](https://github.com/ArnabXD/Dropbox-Index/releases/tag/v2.0.0) in [ArnabXD/Dropbox-Index](https://github.com/ArnabXD/Dropbox-Index)
-<!--END_SECTION:activity-->
+**Languages**
+
+TypeScript · JavaScript · Go · Rust · SQL
+
+**Frontend & Mobile**
+
+React · React Native · Expo · Next.js · Redux · Tailwind CSS
+
+**Backend**
+
+Node.js · Bun · Express · Fastify · PostgreSQL · MongoDB · Redis · Firebase
+
+**Infrastructure & Tools**
+
+Linux · AWS · Cloudflare · Git · GitHub Actions · CI/CD · Docker
+
+### 📦 Some things I've built
+
+| Project | Description | Language |
+|---|---|---|
+| [AProxy](https://github.com/ArnabXD/aproxy) | Anonymous proxy server with proxy discovery and rotation | Go |
+| [TGVCBot](https://github.com/ArnabXD/TGVCBot) | Telegram voice chat music streaming bot | TypeScript |
+| [emulaunch](https://github.com/ArnabXD/emulaunch) | Android emulator and iOS simulator launcher | Rust |
+| [whatspurr](https://github.com/ArnabXD/whatspurr) | WhatsApp automation and developer tooling | TypeScript |
+| [xor](https://github.com/xorgram/xor) | Telegram userbot ecosystem | TypeScript |
+| [AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) | Anime and manga search through Telegram | TypeScript |
+
+### 🌐 Find me elsewhere
+
+- **Portfolio:** [arnabxd.me](https://arnabxd.me)
+- **GitHub:** [@ArnabXD](https://github.com/ArnabXD)
+- **Twitter/X:** [@arnabparyali](https://twitter.com/arnabparyali)
 
 ---
+
+*Building things, breaking things, and occasionally making them better.*
