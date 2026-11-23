@@ -48,6 +48,11 @@ Linux · AWS · Cloudflare · Git · GitHub Actions · CI/CD · Docker
 | [xor](https://github.com/xorgram/xor) | Telegram userbot ecosystem | TypeScript |
 | [AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) | Anime and manga search through Telegram | TypeScript |
 
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 🌐 Find me elsewhere
 
 - **Portfolio:** [arnabxd.me](https://arnabxd.me)
