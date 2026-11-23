@@ -4,12 +4,13 @@
 
 I build web and mobile applications, developer tools, and backend systems. I enjoy working across the stack — from crafting user experiences to designing APIs, optimizing performance, and shipping things to production.
 
-### A little about me
+### 👨‍💻 A little about me
 
-- 📱 Primarily working with **React Native, Expo, React & Next.js**
-- ⚙️ Building backend systems with **Node.js, Bun, and TypeScript**
-- 🗄️ Comfortable with **PostgreSQL, MongoDB, Redis & Firebase**
-- 🤖 Exploring AI-assisted development, LLM integrations, and automation
+- 📱 Building mobile and web experiences with **React Native, Expo, React & Next.js**
+- ⚙️ Working across the backend with **Node.js, Bun, and TypeScript**
+- 🧑‍💻 Experienced in technical leadership, sprint planning, and client-facing engineering
+- 🗄️ Working with **PostgreSQL, MongoDB, Redis & Firebase**
+- 🤖 Exploring AI engineering, LLM integrations, and agentic development workflows
 - 🦀 Experimenting with **Rust and Go**, particularly for developer tools
 - 🚀 Interested in self-hosting, infrastructure, and open-source software
 
@@ -29,7 +30,7 @@ TypeScript · JavaScript · Go · Rust · SQL
 
 React · React Native · Expo · Next.js · Redux · Tailwind CSS
 
-**Backend**
+**Backend & Databases**
 
 Node.js · Bun · Express · Fastify · PostgreSQL · MongoDB · Redis · Firebase
 
@@ -51,6 +52,7 @@ Linux · AWS · Cloudflare · Git · GitHub Actions · CI/CD · Docker
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ### 🌐 Find me elsewhere
