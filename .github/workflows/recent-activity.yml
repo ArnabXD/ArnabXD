@@ -1,3 +1,4 @@
+
 name: Recent Actions
 
 on:
@@ -5,16 +6,22 @@ on:
     - cron: '15 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Update Readme
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: '⚡update recent activity⚡'
+          COMMIT_MSG: '⚡ Update recent activity ⚡'
           MAX_LINES: 10
